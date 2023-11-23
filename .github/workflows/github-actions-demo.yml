@@ -18,4 +18,4 @@ jobs:
       - run: echo "?? This job's status is ${{ job.status }}."
         run: |
           echo Add other actions to build,
-          echo test, and deploy your project 2023/11/23.
+          echo test, and deploy your project 2023/11/23(Thurs).
